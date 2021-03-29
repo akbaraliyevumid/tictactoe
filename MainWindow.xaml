@@ -12,7 +12,7 @@
         <Style TargetType="Button">
             <Setter Property="Background" Value="White"/>
             <Setter Property="BorderThickness" Value="0.5"/>
-            <Setter Property="FontSize" Value="35"/>
+            <Setter Property="FontSize" Value="45"/>
         </Style>
     </Window.Resources>
     
